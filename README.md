@@ -5,7 +5,7 @@
 
 <!-- About Me Section with ASCII Art -->
 ```typescript
-const prathap = {
+const prathapAllu = {
     title: "Software Engineer",
     location: "United States 🌎",
     passions: ["System Architecture", "Real-time Systems", "Cloud Solutions"],
@@ -13,14 +13,6 @@ const prathap = {
         backend: [".NET Core", "C#", "Microservices"],
         frontend: ["Angular", "TypeScript", "WPF/MAUI"],
         cloud: ["Azure", "AWS", "Docker"]
-    },
-    achievements: {
-        certifications: ["Microsoft Azure Administrator ⭐"],
-        impact: {
-            performance: "60% latency reduction",
-            scalability: "10K+ concurrent users",
-            security: "50% security enhancement"
-        }
     }
 };
 ```

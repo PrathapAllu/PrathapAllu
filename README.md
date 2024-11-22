@@ -1,12 +1,56 @@
-- 👋 Hi, I’m @PrathapAllu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Title Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=32&duration=2000&pause=1000&background=45FF9500&center=true&vCenter=true&width=600&lines=Hello+World!+Prathap+Allu+here+👨‍💻;" />
+</div>
 
-<!---
-PrathapAllu/PrathapAllu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- About Me Section with ASCII Art -->
+```typescript
+const prathap = {
+    title: "Software Engineer",
+    location: "United States 🌎",
+    passions: ["System Architecture", "Real-time Systems", "Cloud Solutions"],
+    expertise: {
+        backend: [".NET Core", "C#", "Microservices"],
+        frontend: ["Angular", "TypeScript", "WPF/MAUI"],
+        cloud: ["Azure", "AWS", "Docker"]
+    },
+    achievements: {
+        certifications: ["Microsoft Azure Administrator ⭐"],
+        impact: {
+            performance: "60% latency reduction",
+            scalability: "10K+ concurrent users",
+            security: "50% security enhancement"
+        }
+    }
+};
+```
+
+<!-- Tech Stack Animation -->
+<h2 align="center">Tech Stack 🚀</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,angular,html,javascript,typescript,docker," />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=npm,git,jenkins,visualstudio,powershell,mysql,mongodb,redis" />
+</div>
+
+<!-- Unique Stats Cards -->
+<div align="center">
+  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathapAllu&theme=radical"/>
+</div>
+
+<div align="center">
+  <a href="mailto:alluprathapreddy94@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/prathap08a">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="http://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathapAllu&style=for-the-badge&color=brightgreen" />
+</div>

@@ -41,8 +41,3 @@ const prathapAllu = {
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathapAllu&style=for-the-badge&color=brightgreen" />
-</div>

@@ -37,7 +37,7 @@ const prathapAllu = {
   <a href="https://linkedin.com/in/prathap08a">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="http://YOUR_PORTFOLIO">
+  <a href="http://google.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>

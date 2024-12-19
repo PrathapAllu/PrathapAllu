@@ -11,7 +11,7 @@ const prathapAllu = {
     passions: ["System Architecture", "Real-time Systems", "Cloud Solutions"],
     expertise: {
         backend: [".NET Core", "C#", "Microservices"],
-        frontend: ["Angular", "TypeScript", "WPF/MAUI", Blazor],
+        frontend: ["Angular", "TypeScript", "WPF/MAUI", "Blazor"],
         cloud: ["Azure", "AWS", "Docker"]
     }
 };
